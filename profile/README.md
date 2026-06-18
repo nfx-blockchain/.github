@@ -1,12 +1,24 @@
-## Hi there 👋
+## NFX Blockchain
 
-<!--
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**Here are some ideas to get you started:**
+### Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+NFX Blockchain is an innovative platform for decentralized applications, delivering high-performance transaction processing and developer-friendly tools.
+
+<a href="https://nfxblockchain.com">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+</a>
+<a href="https://discord.gg/kz5Ke4ZTxf">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+### Features
+
+- ⚡ High-performance blockchain infrastructure
+- 🦊 Browser wallet extension (NFXMask)
+- 💰 Web wallet with TypeScript
+- 🔍 Blockchain explorer
+- 📚 Comprehensive documentation
