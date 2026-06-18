@@ -1,24 +1,35 @@
+<img src="https://avatars.githubusercontent.com/u/279795244?s=200&v=4" alt="NFX Blockchain" width="100"/>
+
 ## NFX Blockchain
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Blockchain innovation platform for decentralized applications.
 
-### Overview
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-NFX Blockchain is an innovative platform for decentralized applications, delivering high-performance transaction processing and developer-friendly tools.
+### 📊 Stats
 
-<a href="https://nfxblockchain.com">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-</a>
-<a href="https://discord.gg/kz5Ke4ZTxf">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+![GitHub Org](https://img.shields.io/github/v/tag/nfx-blockchain/.github?color=007ACC&label=Latest&style=flat-square)
+![Repos](https://img.shields.io/badge/Repositories-8-007ACC?style=flat-square)
 
-### Features
+### 🔗 Links
 
-- ⚡ High-performance blockchain infrastructure
-- 🦊 Browser wallet extension (NFXMask)
-- 💰 Web wallet with TypeScript
-- 🔍 Blockchain explorer
-- 📚 Comprehensive documentation
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://nfxblockchain.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kz5Ke4ZTxf)
+
+### 🚀 Projects
+
+- NFX-website - Official website
+- web-wallet-nfx - TypeScript web wallet
+- NFXMask - Browser wallet for NFX blockchain
+- playground-nfx - TypeScript playground
+- explorernfx - Blockchain explorer
+- id-nfx - Web3 dApp provider access
+- nfx-docs - Documentation
+
+### 🛠️ Stack
+
+- **Frontend**: TypeScript, JavaScript, HTML5
+- **Wallet**: Browser extension (NFXMask)
+- **Tools**: Playground, Explorer
