@@ -1,4 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/279795244?s=200&v=4" alt="NFX Blockchain" width="100"/>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1503499984312733777/1514052657663185036/banner-nfx.png?ex=6a352bab&is=6a33da2b&hm=20d989fcb2f6eae1a1075fe475362eccd6fc4d0c4804b26bba8ea0e442036108&=&format=webp&quality=lossless" alt="NFX Blockchain" width="100"/>
+</p>
 
 ## NFX Blockchain
 
@@ -7,6 +9,11 @@ Blockchain innovation platform for decentralized applications.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=make&logoColor=white)
 
 ### 📊 Stats
 
@@ -31,5 +38,7 @@ Blockchain innovation platform for decentralized applications.
 ### 🛠️ Stack
 
 - **Frontend**: TypeScript, JavaScript, HTML5
+- **Core**: C++, C, Assembly, Python
+- **Build**: Makefile
 - **Wallet**: Browser extension (NFXMask)
 - **Tools**: Playground, Explorer
