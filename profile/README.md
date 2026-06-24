@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1503499984312733777/1514052657663185036/banner-nfx.png?ex=6a352bab&is=6a33da2b&hm=20d989fcb2f6eae1a1075fe475362eccd6fc4d0c4804b26bba8ea0e442036108&=&format=webp" alt="NFX Blockchain"/>
+  <img src="https://cdn.discordapp.com/attachments/1503499984312733777/1514052657663185036/banner-nfx.png?ex=6a3d14ab&is=6a3bc32b&hm=209fb39ba81a986bf1a7922b6b7930d981bc73761694dd94bd9d80f43f8c509e" alt="NFX Blockchain"/>
 </p>
 
 ## NFX Blockchain
